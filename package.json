@@ -1,7 +1,7 @@
 {
-  "name": "axios",
-  "version": "0.18.0",
-  "description": "Promise based HTTP client for the browser and node.js",
+  "name": "axios-mp",
+  "version": "1.0.0",
+  "description": "Promise based HTTP client for the mp",
   "main": "index.js",
   "scripts": {
     "pretest": "npm run build",
@@ -19,7 +19,7 @@
     "version": "npm run build && git add -A dist && git add CHANGELOG.md package.json",
     "postversion": "git push && git push --tags",
     "examples": "node ./examples/server.js",
-    "coveralls": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "coveralls": "cat coverage/lcov. info | ./node_modules/coveralls/bin/coveralls.js",
     "fix": "eslint --fix lib/**/*.js"
   },
   "repository": {

@@ -7,7 +7,7 @@
 [![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
 [![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
 
-Promise based HTTP client for the browser and node.js
+Promise based HTTP client for the mp
 
 ## Features
 
